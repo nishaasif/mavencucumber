@@ -19,6 +19,7 @@ public class HookClass extends BaseClass{
 		
 		closeBrow();
 		System.out.println("comment");
+		System.out.println("comment 2");
 		
 	}
 	
